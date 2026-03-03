@@ -1,4 +1,5 @@
 # print("Hola")
+# print("ALOJA SOY ALEJOX AJJAX")
 
 for n in range(1, 11):
     d= 0
@@ -6,4 +7,6 @@ for n in range(1, 11):
         if n % c == 0:
             d+=1   
     if d <= 2:
-        print(n, end=" ")                
+        print(n, end=" ")      
+
+                 
